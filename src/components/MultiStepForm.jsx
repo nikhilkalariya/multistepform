@@ -97,7 +97,7 @@ const MultiStepForm = ({ onSubmit }) => {
               <Checkbox className='bg-white border border-gray-300 text-base rounded-lg hover:ring-2 hover:ring-blue-500 hover:border-blue-500 w-full p-5' value="Development">Development</Checkbox>
               <Checkbox className='bg-white border border-gray-300 text-base rounded-lg hover:ring-2 hover:ring-blue-500 hover:border-blue-500  w-full p-5' value="Marketing">Marketing</Checkbox>
               <Checkbox className='bg-white border border-gray-300 text-base rounded-lg hover:ring-2 hover:ring-blue-500 hover:border-blue-500 w-full p-5' value="WebDesign">WebDesign</Checkbox>
-              <Checkbox className='bg-white border border-gray-300 text-base rounded-lg hover:ring-2 hover:ring-blue-500 hover:border-blue-500 w-full p-5' value="Other"><SettingFilled className='bg-indigo-500 p-2 rounded-full fill-white mx-4'/>Other</Checkbox>
+              <Checkbox className='bg-white border border-gray-300 text-base rounded-lg hover:ring-2 hover:ring-blue-500 hover:border-blue-500 w-full p-5' value="Other">Other</Checkbox>
             </Checkbox.Group>
           </Form.Item>
           
